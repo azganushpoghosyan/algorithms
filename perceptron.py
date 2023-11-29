@@ -1,4 +1,5 @@
 """
+Intro to Perceptron algorithm
 The perceptron is a basic supervised learning algorithm for binary classification tasks.
 It consists of a single-layer neural network with adjustable weights and a threshold.
 The model takes input features, multiplies them by corresponding weights, sums the results,
